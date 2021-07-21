@@ -1,0 +1,10 @@
+E:\WindowsFormsApp1\VehicleLicenseTax\bin\Debug\VehicleLicenseTax.exe.config
+E:\WindowsFormsApp1\VehicleLicenseTax\bin\Debug\VehicleLicenseTax.exe
+E:\WindowsFormsApp1\VehicleLicenseTax\bin\Debug\VehicleLicenseTax.pdb
+E:\WindowsFormsApp1\VehicleLicenseTax\obj\Debug\VehicleLicenseTax.csproj.AssemblyReference.cache
+E:\WindowsFormsApp1\VehicleLicenseTax\obj\Debug\VehicleLicenseTax.Properties.Resources.resources
+E:\WindowsFormsApp1\VehicleLicenseTax\obj\Debug\VehicleLicenseTax.csproj.GenerateResource.cache
+E:\WindowsFormsApp1\VehicleLicenseTax\obj\Debug\VehicleLicenseTax.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp1\VehicleLicenseTax\obj\Debug\VehicleLicenseTax.exe
+E:\WindowsFormsApp1\VehicleLicenseTax\obj\Debug\VehicleLicenseTax.pdb
+E:\WindowsFormsApp1\VehicleLicenseTax\obj\Debug\VehicleLicenseTax.VihicelLicenseTaxForm.resources
